@@ -1,4 +1,5 @@
 # EVNTMinigames
+https://www.youtube.com/watch?v=Frd4QENKpl0&t=1613s
 
 EVNT Minigames was the old minigames plugin used for discord.gg/evnt (37k players).
 I decided to sell this server and the code is now free online for anyone to use.
