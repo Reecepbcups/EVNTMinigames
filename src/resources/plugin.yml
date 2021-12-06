@@ -1,0 +1,19 @@
+name: EVNTMinigames
+version: "1.2"
+author: Reecepbcups
+main: sh.reece.evnt.Main
+description: EVNT Server Minigames
+api-version: 1.16
+
+commands:
+  zone:
+    description: Zones Minigame
+    usage: Syntax error for zpne!
+    aliases: [zones, evntzone] 
+  warpjail:
+    description: Warp to the set jail
+    usage: Syntax error for warpjail!
+    aliases: [wjail, jail] 
+  infected:
+    description: Command used for Infected Tag Games!
+    usage: Syntax error for infected!    

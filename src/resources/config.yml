@@ -1,0 +1,45 @@
+# Void Minigame & Moving Object via custom schem- By Reecepbcups
+# zones.staff, zones.use
+
+#trainspeed: 2
+spawn: world;0;80;0;90.0;0.0
+jail: world;0;80;0;90.0;0.0
+
+infiniteDirt: false
+
+particles:
+  viewdistance: 96
+  repeatTime: 3
+  particleSize: 1 # 1.9+ only
+  minYParticleLevel: 5
+  maxYParticleLevel: 215
+  RGBValues: 255,0,0
+  default:
+    y_step: 6
+    x_step: 5
+  under_24r:
+    y_step: 5
+    x_step: 4
+  under_16r:
+    y_step: 4
+    x_step: 3
+  under_8r:
+    y_step: 3
+    x_step: 2
+zones:
+  queuetime: 5
+  secondsPerHeartTake: 5
+  gracePeriod: 0  
+
+  
+color: 
+  testplaceholderdontuse:
+    loc1: world;51;0;-25
+    loc2: world;61;0;-15
+
+
+
+infected:
+  spawn: world;0;80;0;90.0;0.0
+  jail: world;0;80;0;90.0;0.0
+  queuetime: 15
