@@ -1,4 +1,6 @@
 # EVNTMinigames
+As seen minigames such as "Zones" on the evnt.club network (Feb - Sept 2021)
+
 https://www.youtube.com/watch?v=Frd4QENKpl0&t=1613s
 
 EVNT Minigames was the old minigames plugin used for discord.gg/evnt (37k players).
